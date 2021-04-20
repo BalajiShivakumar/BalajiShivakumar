@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BalajiShivakumar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#, .NET ASP
+- 🌱 I’m currently learning C#, ASP.NET
 - 💞️ I’m looking to collaborate on Machine Learning Projects 
 - 📫 How to reach me [ text2balaji@gmail.com ]
 
