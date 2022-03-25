@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BalajiShivakumar
 - 👀 I’m interested in Software Development
-- 🌱 Language : Javascript, Python, C#, ASP.NET
-- 💞️ I’m looking to collaborate on Machine Learning Projects 
+- 🌱 Languages : Javascript, Python, C# 
 - 📫 How to reach me [https://www.linkedin.com/in/balaji-shivakumar/] [text2balaji@gmail.com ]
 
 <!---
